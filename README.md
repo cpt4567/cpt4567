@@ -11,7 +11,6 @@ React · TypeScript · Next.js · React Native 중심으로 작업합니다.
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
 ## About
-- 🔭 지금은: 웹/프론트 사이드 프로젝트 작업 중
 - 🌱 배우는 중: Next.js, React Native, 성능 최적화
 - 👯 협업 관심: 프론트엔드/모바일
 - 🤔 도움 필요: UI/UX 개선, 코드 리뷰
